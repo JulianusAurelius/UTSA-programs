@@ -1,0 +1,17 @@
+<html>
+<body>
+<h1>PAST DUE NOTICE - APT {apt_number| - {date|</h1>
+<p>
+Dear {first_name| {last_name|,
+</p>
+<p>
+Your rent is past due by ${balance| for the apartment in
+which you began residency on {lease_start|. If it is not
+paid in full within fourteen days, your contract may be
+terminated before the original end date of {lease_end|.
+</p>
+<p>
+-Management
+</p>
+</body>
+</html>

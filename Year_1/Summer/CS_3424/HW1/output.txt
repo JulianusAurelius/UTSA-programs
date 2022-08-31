@@ -1,0 +1,165 @@
+
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new photo item
+R - read an existing photo item
+U - update an existing photo item
+D - delete an existing photo item
+Q - quit
+Creating data directory
+Created data/p101.photo
+
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new photo item
+R - read an existing photo item
+U - update an existing photo item
+D - delete an existing photo item
+Q - quit
+Photo: 101
+File: samples/pic12.jpg
+Date: 2/20/2021
+Location: Paris
+Names: Joe Montana
+
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new photo item
+R - read an existing photo item
+U - update an existing photo item
+D - delete an existing photo item
+Q - quit
+Created data/p102.photo
+
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new photo item
+R - read an existing photo item
+U - update an existing photo item
+D - delete an existing photo item
+Q - quit
+data/p101.photo was successfully deleted.
+
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new photo item
+R - read an existing photo item
+U - update an existing photo item
+D - delete an existing photo item
+Q - quit
+Photo: 102
+File: samples/pic23.png
+Date: 12/31/2004
+Location: New York
+Names: Mario, Luigi
+
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new photo item
+R - read an existing photo item
+U - update an existing photo item
+D - delete an existing photo item
+Q - quit
+File name is samples/pic23.png
+Updated data/p102.photo
+
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new photo item
+R - read an existing photo item
+U - update an existing photo item
+D - delete an existing photo item
+Q - quit
+Photo: 102
+File: samples/pic23.png
+Date: 1/3/1999
+Location: London
+Names: Thor, Hulk
+
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new photo item
+R - read an existing photo item
+U - update an existing photo item
+D - delete an existing photo item
+Q - quit
+File name is samples/pic23.png
+Using old year 1999
+Using old month 1
+Using old day 3
+Using old location London
+Using old names Thor, Hulk
+Updated data/p102.photo
+
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new photo item
+R - read an existing photo item
+U - update an existing photo item
+D - delete an existing photo item
+Q - quit
+Photo: 102
+File: samples/pic23.png
+Date: 1/3/1999
+Location: London
+Names: Thor, Hulk
+
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new photo item
+R - read an existing photo item
+U - update an existing photo item
+D - delete an existing photo item
+Q - quit
+ERROR: invalid option: X
+
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new photo item
+R - read an existing photo item
+U - update an existing photo item
+D - delete an existing photo item
+Q - quit
+0 is not in the range 1 to 99999
+100000 is not in the range 1 to 99999
+ERROR: File noway does not exist
+Year 1800 is not in the range 1950 to 2050
+Year 2200 is not in the range 1950 to 2050
+Month 0 is not in the range 1 to 12
+Month 13 is not in the range 1 to 12
+Day 0 is not in the range 1 to 31
+Day 32 is not in the range 1 to 31
+Location must be provided.
+Created data/p50.photo
+
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new photo item
+R - read an existing photo item
+U - update an existing photo item
+D - delete an existing photo item
+Q - quit
+ERROR: photo p423.photo not found
+
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new photo item
+R - read an existing photo item
+U - update an existing photo item
+D - delete an existing photo item
+Q - quit
+Photo: 50
+File: samples/pic12.jpg
+Date: 6/15/2000
+Location: Rome, Italy
+Names: bob, joe
+
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new photo item
+R - read an existing photo item
+U - update an existing photo item
+D - delete an existing photo item
+Q - quit
+ERROR: photo p3838.photo not found
+
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new photo item
+R - read an existing photo item
+U - update an existing photo item
+D - delete an existing photo item
+Q - quit
+data/p50.photo was successfully deleted.
+
+Enter one of the following actions or press CTRL-D to exit.
+C - create a new photo item
+R - read an existing photo item
+U - update an existing photo item
+D - delete an existing photo item
+Q - quit

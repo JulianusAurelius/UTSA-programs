@@ -1,0 +1,10 @@
+T F NAND
+( T NAND F )
+T F AND T OR
+( ( T AND F ) OR T )
+T F AND T OR NOT
+( NOT ( ( T AND F ) OR T ) )
+F T T T T NOR XOR OR COND
+( F COND ( T OR ( T XOR ( T NOR T ) ) ) )
+T T T T T T T T T T T T T OR OR OR OR OR OR OR OR OR OR OR OR NOT
+( NOT ( T OR ( T OR ( T OR ( T OR ( T OR ( T OR ( T OR ( T OR ( T OR ( T OR ( T OR ( T OR T ) ) ) ) ) ) ) ) ) ) ) ) )

@@ -1,0 +1,11 @@
+Student Transcript for John Doe, jkl567, @99029832
+
+Semester Fall 2020
+   CS 3424 Systems Programming          B+
+   CS 3733 Operating Systems            C-
+   CS 4853 Adv. Systems Programming     D
+   MAT 1013 Calculus I                  B-
+Semester grade point average:           2.18
+
+X Academic probation active
+X Academic holds: 3

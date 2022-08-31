@@ -1,0 +1,4 @@
+A shortest path from 0 to 4 has length -1.
+A shortest path from 1 to 2 has length -4.
+A shortest path from 6 to 0 has length 4.
+A shortest path from 3 to 1 has length 4.

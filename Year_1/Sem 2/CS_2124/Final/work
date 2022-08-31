@@ -1,0 +1,19 @@
+1.
+
+  a. n
+    First while look is O(n), second while loop is O(log(n)). Nesting the two would be multiplication, but since they come after each other, it's O(n) + O(log(n^2)) = O(n+log(n^2)) = O(n+2log(n)) = O(n) 
+
+  b. n*log(n)
+    First while loop is O(log(n)), second while loop is O(n), since they are nested together, we can multiply them to get O(nlog(n))
+
+  c. n
+    Every subsequent recursive call only decrements the passed value by a constant value. So it decreases the variable to 1 or less in linear time. Each function itself runs in standard time, but for the entire recursive call, it runs in linear time.
+
+  d. O(n³)  (n^3)
+    First while loop is linear, O(n), and the second while loop is linear, but only up to the current index of the first index. My first thought would be factorial or a summation. After messing around on my calculator and writing in my notebook, it looks the limit approaches (n^2)/2, or half the square of the number. Which, thinking through it, makes sense, as if you have an input of 10, you'll run 1-10 times. And if you pair up 1 with 9, 2 with 8, 3 with 7, etc, you get pairs of n numbering half (meaning, in this case, 5 pairs of 10, with 5 left over). Or you can have 9 'lend' 4 to 1, so 1 becomes 5, and 9 becomes 9, then you have 10 numbers, which almost all are half of n, (ie 10 numbers, 9 of which would be 5). So multiplying these together, we get O(n * (n^2)/2) = O(n^3/2) = O(n^3)
+
+  e. 1
+    This problem is very similar to problem d, however, since there is no input (or n), while it would be the same as the previous problem, just with j going to 0 instead of going to i, it runs in constant time, due to it having no input. 
+
+
+

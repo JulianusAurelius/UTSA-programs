@@ -1,0 +1,8 @@
+if [[ -e samples ]]; then /bin/rm -rf samples; fi
+if [[ -e data ]]; then /bin/rm -rf data; fi
+mkdir samples
+touch samples/pic12.jpg
+touch samples/pic23.png
+./crud.sh < crud.cmds &> crud.myoutput
+echo Look at crud.myoutput and data/queries.log
+
